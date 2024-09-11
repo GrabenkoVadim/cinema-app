@@ -1,8 +1,11 @@
 ﻿# <p>Cinema app </p>
-
+🎥 About cinema-app
+# 🎥 About cinema-app
 This project is simple analog of cinema application with authentication and authorization.
 
+# Features
 
+![alt text](https://github.com/mate-academy/hibernate-order-hw/raw/master/Hibernate_Cinema_Uml.png)
 The application has the ability:
 - Register new user
 - Cinema hall add or get all
@@ -14,9 +17,6 @@ The application has the ability:
 
     There are two types of roles in the application: `ADMIN` and `USER`. </br>
 During registration, the user is assigned a role USER.
-
-#**Table relation**
-![img.png](img.png)
 
 ###### All configured endpoints you can use for ADMIN or USER
 - POST: /register - all
