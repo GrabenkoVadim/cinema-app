@@ -1,6 +1,7 @@
 ﻿# <p>Cinema app </p>
 # 🎥 About cinema-app
 This project is simple analog of cinema application with authentication and authorization.
+
 The application's key advantage is its role-based access control, ensuring secure and streamlined functionality for both administrators and regular users. It offers a user-friendly interface, efficient data management, and smooth navigation, making it ideal for managing a cinema's operations and customer interactions.
 # Features
 
