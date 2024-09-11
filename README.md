@@ -1,5 +1,4 @@
 ﻿# <p>Cinema app </p>
-🎥 About cinema-app
 # 🎥 About cinema-app
 This project is simple analog of cinema application with authentication and authorization.
 
